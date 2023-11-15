@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pravilal
+ *
+ */
+module ArmstsrongNumber {
+}
